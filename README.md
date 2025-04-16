@@ -39,7 +39,7 @@ http://localhost:3000/api/v2/seed
 * Nest
 
 
-#Production Build
+# Production Build
 1. Crear archivo ```.env.prod``` 
 2. Llenar las variables de entorno de prod.
 3. Crear la nueva imagen 
